@@ -1,4 +1,4 @@
-drawing
+![](hh label.jpg)
 Проект: Анализ вакансий из HeadHunter с помощью БД SQL
 Все необходимые таблицы находятся в схеме public базы данных project_sql.
 
