@@ -1,4 +1,4 @@
-![](hh label.jpg)
+![](https://github.com/SS-O-star/Analiz_vacancies_HH/blob/93b9136ee997896746cbbbc3ed7ec41d9beacb89/hh%20label.jpg))
 Проект: Анализ вакансий из HeadHunter с помощью БД SQL
 Все необходимые таблицы находятся в схеме public базы данных project_sql.
 
